@@ -2,7 +2,7 @@ var num;
 
 function ready(num)
 {
-    var parentDiv=document.getElementById("divImg")
+    
     var text=document.getElementsByClassName('message')[0]
 
 
